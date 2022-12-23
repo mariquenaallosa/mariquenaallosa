@@ -26,7 +26,7 @@
 </a>
   
 <a href="https://drive.google.com/file/d/1BrvUxGZkkdIPkkoYYxgxoRCaEs7pALL1/view?usp=share_link" target="_blank">
-<img src="https://img.icons8.com/fluency/344/resume.png" width="50" height="50">
+<img src="https://img.icons8.com/stickers/100/null/resume.png" width="50" height="50"/>
 </a>
   
   
