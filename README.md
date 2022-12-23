@@ -24,7 +24,7 @@
 <img src="https://img.icons8.com/fluency/344/linkedin.png" width="50" height="50">
 </a>
   
-<a href="[https://drive.google.com/file/d/1cO0pyLEFgbWn09EaK4WKw3awlQi-3Yo6/view?usp=sharing](https://drive.google.com/file/d/1BrvUxGZkkdIPkkoYYxgxoRCaEs7pALL1/view?usp=sharing)" target="_blank">
+<a href="https://drive.google.com/file/d/1cO0pyLEFgbWn09EaK4WKw3awlQi-3Yo6/view?usp=sharing" target="_blank">
 <img src="https://img.icons8.com/fluency/344/resume.png" width="50" height="50">
 </a>
   
