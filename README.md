@@ -1,26 +1,46 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mariquena Allosa I' am Full Stack Developer
-========================================================================================================================================
+![Dark Purple Modern Twitter Header](https://user-images.githubusercontent.com/99567012/209244229-a30aa368-3089-46f8-9408-2fae1b67ab96.png)
+<div align="center">
+  
+![female-technologist-type-4_1f469-1f3fd-200d-1f4bb](https://user-images.githubusercontent.com/99567012/209244922-15c7ae43-4ed9-429d-9c99-b3c0cd4fb5ec.png)
 
+</div>
+<div align="justify">
 
-I have done different trainings, all oriented to the development of both frontend and backend websites. I am currently studying the Higher Technical Degree in Web Development and Digital Applications.
-I consider myself passionate about technology 💻. I upload here on github some projects as I progress in this world that I have been exploring on the internet 🗺️ in a self-taught way and improving over time. I hope you feel free to suggest improvements or simply implement them.
-
-Thank you for your visit!😁  
-
-* 🌍  I'm based in Misiones, Argentina.
-* 🖥️  See my portfolio at [Mariquena Allosa](http://mariquena-allosa.web.app/)
-* ✉️  You can contact me at [allosamariquena@gmail.com](mailto:allosamariquena@gmail.com)
-
-### Socials
-
-<p align="center"> <a href="https://discord.com/users/Mariquena#7181" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mariquenaallosa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a> <a href="https://www.linkedin.com/in/mariquenaallosa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
+![waving-hand-sign_1f44b](https://user-images.githubusercontent.com/99567012/209245187-7bfc1428-5de4-4c0b-a7e0-f1893e416fba.gif)
+¡Hola! Mi nombre es Mariquena Allosa, tengo 26 años, vivo en Misiones, Argentina. Empecé mi trayectoria laboral como Realizadora Audiovisual y actualmente me encuentro en un cambio de área y cursando la Tecnicatura en Desarrollo Web y aplicaciones digitales en el ISPC. 
+ Me apasiona la tecnología, la programación y la fotografía. 
+  
+ Apunto a desarrollarme en un entorno productivo, donde pueda trabajar en equipo, profundizar mis conocimientos y habilidades en Desarrollo Web.
+ Puedo aportar mi creatividad y capacidad analítica a la hora de resolver problemas. 
+  
+ Me considero una persona autodidacta y organizada. Asumo mis trabajos con compromiso y dedicación. Me destaco en mi empeño y perseverancia por conseguir los mejores resultados.
+  
+</div>
+  <br></br>
+<div align="center">
+<h2><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"> Puedes encontrarme en <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"></h2>
+    <br></br>
+  <a href="https://www.linkedin.com/in/mariquenaallosa/" target="_blank">
+<img src="https://img.icons8.com/fluency/344/linkedin.png" width="50" height="50">
+</a>
+  
+<a href="[https://drive.google.com/file/d/1cO0pyLEFgbWn09EaK4WKw3awlQi-3Yo6/view?usp=sharing](https://drive.google.com/file/d/1BrvUxGZkkdIPkkoYYxgxoRCaEs7pALL1/view?usp=sharing)" target="_blank">
+<img src="https://img.icons8.com/fluency/344/resume.png" width="50" height="50">
+</a>
+  
+  
 <a href="https://www.github.com/mariquenaallosa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mariquenaallosa?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
+  
+  
+ </div>
+  <br></br>
 
-### Skills
+<div align="center">
+<h2> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/books_1f4da.png" width="25" height="25">
+ Skills <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/books_1f4da.png" width="25" height="25"></h2>
 
+  <br></br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="46" height="46" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="46" height="46" alt="CSS3" />
@@ -45,8 +65,9 @@ src="https://img.shields.io/github/followers/mariquenaallosa?logo=github&style=f
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="46" height="46" alt="Premiere Pro" />
 </p>
 
-
-## Github Stats  
+  <br></br>
+<h2><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"> Github Stats  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"></h2>
+  <br></br>
 <table><tr><td valign="top" width="50%">
 
 <a href="http://www.github.com/mariquenaallosa"><img src="https://github-readme-stats.vercel.app/api?username=mariquenaallosa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="mariquenaallosa's GitHub stats" /></a>
