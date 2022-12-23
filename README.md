@@ -16,6 +16,7 @@
  Me considero una persona autodidacta y organizada. Asumo mis trabajos con compromiso y dedicación. Me destaco en mi empeño y perseverancia por conseguir los mejores resultados.
   
 </div>
+
   <br></br>
 <div align="center">
 <h2><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"> Puedes encontrarme en <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"></h2>
