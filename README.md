@@ -66,6 +66,7 @@ src="https://img.shields.io/github/followers/mariquenaallosa?logo=github&style=f
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="46" height="46" alt="Premiere Pro" />
 </p>
 
+
   <br></br>
 <h2><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"> Github Stats  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"></h2>
   <br></br>
