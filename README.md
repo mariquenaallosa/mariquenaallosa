@@ -7,7 +7,7 @@
 <div align="justify">
 
 ![waving-hand-sign_1f44b](https://user-images.githubusercontent.com/99567012/209245187-7bfc1428-5de4-4c0b-a7e0-f1893e416fba.gif)
-¡Hola! Mi nombre es Mariquena Allosa, tengo 26 años, vivo en Misiones, Argentina. Empecé mi trayectoria laboral como Realizadora Audiovisual y actualmente me encuentro en un cambio de área y cursando la Tecnicatura en Desarrollo Web y aplicaciones digitales en el ISPC. 
+¡Hola! Mi nombre es Mariquena Allosa, tengo 27 años, vivo en Misiones, Argentina. Empecé mi trayectoria laboral como Realizadora Audiovisual y actualmente me encuentro en un cambio de área y cursando la Tecnicatura en Desarrollo Web y aplicaciones digitales en el ISPC. 
  Me apasiona la tecnología, la programación y la fotografía. 
   
  Apunto a desarrollarme en un entorno productivo, donde pueda trabajar en equipo, profundizar mis conocimientos y habilidades en Desarrollo Web.
@@ -19,13 +19,13 @@
 
   <br></br>
 <div align="center">
-<h2><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"> Puedes encontrarme en <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"></h2>
+<h2> Puedes encontrarme en</h2>
     <br></br>
   <a href="https://www.linkedin.com/in/mariquenaallosa/" target="_blank">
 <img src="https://img.icons8.com/fluency/344/linkedin.png" width="50" height="50">
 </a>
   
-<a href="https://drive.google.com/file/d/1I0QVpLD23AL-SjwPE0ym-BH68PvEDSQ4/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/19P6Hy8ADxGob_x4C0kg7saldzeQ9n_5R/view?usp=sharing" target="_blank">
 <img src="https://img.icons8.com/stickers/100/null/resume.png" width="50" height="50"/>
 </a>
   
@@ -38,8 +38,8 @@ src="https://img.shields.io/github/followers/mariquenaallosa?logo=github&style=f
   <br></br>
 
 <div align="center">
-<h2> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/books_1f4da.png" width="25" height="25">
- Skills <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/books_1f4da.png" width="25" height="25"></h2>
+<h2>
+ Skills </h2>
 
   <br></br>
 <p align="center">
@@ -68,7 +68,7 @@ src="https://img.shields.io/github/followers/mariquenaallosa?logo=github&style=f
 
 
   <br></br>
-<h2><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"> Github Stats  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"></h2>
+<h2> Github Stats </h2>
   <br></br>
 <table><tr><td valign="top" width="50%">
 
