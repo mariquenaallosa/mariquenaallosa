@@ -7,13 +7,11 @@
 <div align="justify">
 
 ![waving-hand-sign_1f44b](https://user-images.githubusercontent.com/99567012/209245187-7bfc1428-5de4-4c0b-a7e0-f1893e416fba.gif)
-¡Hola! Mi nombre es Mariquena Allosa, tengo 27 años, vivo en Misiones, Argentina. Empecé mi trayectoria laboral como Realizadora Audiovisual y actualmente me encuentro en un cambio de área y cursando la Tecnicatura en Desarrollo Web y aplicaciones digitales en el ISPC. 
- Me apasiona la tecnología, la programación y la fotografía. 
-  
- Apunto a desarrollarme en un entorno productivo, donde pueda trabajar en equipo, profundizar mis conocimientos y habilidades en Desarrollo Web.
- Puedo aportar mi creatividad y capacidad analítica a la hora de resolver problemas. 
-  
- Me considero una persona autodidacta y organizada. Asumo mis trabajos con compromiso y dedicación. Me destaco en mi empeño y perseverancia por conseguir los mejores resultados.
+¡Hola! Mi nombre es Mariquena Allosa, soy una apasionada programadora de 27 años que reside en la hermosa provincia de Misiones, Argentina. Actualmente, me encuentro inmersa en el mundo de la tecnología y la programación, siempre buscando aprender y crecer en mi carrera.
+
+En mi formación académica, estoy cursando la Tecnicatura en Desarrollo Web y Aplicaciones Digitales en el Instituto Superior Politécnico Córdoba, donde adquiero conocimientos sólidos en diversas tecnologías. También estudio de manera autodidacta nuevas herramientas y mejoras en los conocimientos ya adquiridos.
+
+Estoy emocionada por las oportunidades que el mundo de la programación y el desarrollo web tiene para ofrecer, y espero seguir creciendo y aportando mi pasión y habilidades en nuevos proyectos y desafíos emocionantes. ¡Gracias por visitar mi perfil!
   
 </div>
 
