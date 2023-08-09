@@ -1,84 +1,21 @@
 ![Dark Purple Modern Twitter Header](https://user-images.githubusercontent.com/99567012/209244229-a30aa368-3089-46f8-9408-2fae1b67ab96.png)
-<div align="center">
+
   
-![female-technologist-type-4_1f469-1f3fd-200d-1f4bb](https://user-images.githubusercontent.com/99567012/209244922-15c7ae43-4ed9-429d-9c99-b3c0cd4fb5ec.png)
-
-</div>
-<div align="justify">
-
-![waving-hand-sign_1f44b](https://user-images.githubusercontent.com/99567012/209245187-7bfc1428-5de4-4c0b-a7e0-f1893e416fba.gif)
-¡Hola! Mi nombre es Mariquena Allosa, soy una apasionada programadora de 27 años que reside en la hermosa provincia de Misiones, Argentina. Actualmente, me encuentro inmersa en el mundo de la tecnología y la programación, siempre buscando aprender y crecer en mi carrera.
-
-En mi formación académica, estoy cursando la Tecnicatura en Desarrollo Web y Aplicaciones Digitales en el Instituto Superior Politécnico Córdoba, donde adquiero conocimientos sólidos en diversas tecnologías. También estudio de manera autodidacta nuevas herramientas y mejoras en los conocimientos ya adquiridos.
-
-Estoy emocionada por las oportunidades que el mundo de la programación y el desarrollo web tiene para ofrecer, y espero seguir creciendo y aportando mi pasión y habilidades en nuevos proyectos y desafíos emocionantes. ¡Gracias por visitar mi perfil!
+# ![female-technologist-type-4_1f469-1f3fd-200d-1f4bb](https://user-images.githubusercontent.com/99567012/209244922-15c7ae43-4ed9-429d-9c99-b3c0cd4fb5ec.png) Acerca de mi: 
+ ¡Hola! Mi nombre es Mariquena Allosa, soy una apasionada programadora de 27 años que reside en la hermosa provincia de Misiones, Argentina. Actualmente, me encuentro inmersa en el mundo de la tecnología y la programación, siempre buscando aprender y crecer en mi carrera.<br><br>En mi formación académica, estoy cursando la Tecnicatura en Desarrollo Web y Aplicaciones Digitales en el Instituto Superior Politécnico Córdoba, donde adquiero conocimientos sólidos en diversas tecnologías. También estudio de manera autodidacta nuevas herramientas y mejoras en los conocimientos ya adquiridos.<br><br>Estoy emocionada por las oportunidades que el mundo de la programación y el desarrollo web tiene para ofrecer, y espero seguir creciendo y aportando mi pasión y habilidades en nuevos proyectos y desafíos emocionantes. ¡Gracias por visitar mi perfil!
+ 
   
-</div>
+## 🌐 Puedes encontrarme en:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariquenaallosa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariquenaallosa) 
 
-  <br></br>
-<div align="center">
-<h2> Puedes encontrarme en</h2>
-    <br></br>
-  <a href="https://www.linkedin.com/in/mariquenaallosa/" target="_blank">
-<img src="https://img.icons8.com/fluency/344/linkedin.png" width="50" height="50">
-</a>
-  
-<a href="https://drive.google.com/file/d/19P6Hy8ADxGob_x4C0kg7saldzeQ9n_5R/view?usp=sharing" target="_blank">
-<img src="https://img.icons8.com/stickers/100/null/resume.png" width="50" height="50"/>
-</a>
-  
-  
-<a href="https://www.github.com/mariquenaallosa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mariquenaallosa?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
-  
-  
- </div>
-  <br></br>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mariquenaallosa&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mariquenaallosa&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariquenaallosa&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-<h2>
- Skills </h2>
-
-  <br></br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="46" height="46" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="46" height="46" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48" height="48" alt="Bootstrap" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="46" /> 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="46" height="46" alt="Sass" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="46" height="46" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="46" height="46" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="46" height="46" alt="Angular" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="46" height="46" alt="React" />
-  
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="46" width="46" alt="spring logo"  />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="46" height="46" alt="MySQL" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="46" height="46" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" width="46" alt="git logo"  />
-
-
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="46" height="46" alt="Photoshop" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="46" height="46" alt="After Effects" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="46" height="46" alt="Premiere Pro" />
-</p>
-
-
-  <br></br>
-<h2> Github Stats </h2>
-  <br></br>
-<table><tr><td valign="top" width="50%">
-
-<a href="http://www.github.com/mariquenaallosa"><img src="https://github-readme-stats.vercel.app/api?username=mariquenaallosa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="mariquenaallosa's GitHub stats" /></a>
-
-</td><td valign="top" width="50%">
-
-<a href="http://www.github.com/mariquenaallosa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mariquenaallosa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</td></tr></table>  
-
-
-
-![Profile views counter](https://komarev.com/ghpvc/?username=mariquenaallosa&&style=flat-square&right_color=cadetblue)  
+---
+[![](https://visitcount.itsvg.in/api?id=mariquenaallosa&icon=0&color=6)](https://visitcount.itsvg.in) 
   
 
