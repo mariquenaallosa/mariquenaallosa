@@ -1,11 +1,13 @@
 ![Dark Purple Modern Twitter Header](https://user-images.githubusercontent.com/99567012/209244229-a30aa368-3089-46f8-9408-2fae1b67ab96.png)
 
   
-# ![female-technologist-type-4_1f469-1f3fd-200d-1f4bb](https://user-images.githubusercontent.com/99567012/209244922-15c7ae43-4ed9-429d-9c99-b3c0cd4fb5ec.png) Acerca de mi: 
- ¡Hola! Mi nombre es Mariquena Allosa, soy una apasionada programadora de 27 años que reside en la hermosa provincia de Misiones, Argentina. Actualmente, me encuentro inmersa en el mundo de la tecnología y la programación, siempre buscando aprender y crecer en mi carrera.<br><br>En mi formación académica, estoy cursando la Tecnicatura en Desarrollo Web y Aplicaciones Digitales en el Instituto Superior Politécnico Córdoba, donde adquiero conocimientos sólidos en diversas tecnologías. También estudio de manera autodidacta nuevas herramientas y mejoras en los conocimientos ya adquiridos.<br><br>Estoy emocionada por las oportunidades que el mundo de la programación y el desarrollo web tiene para ofrecer, y espero seguir creciendo y aportando mi pasión y habilidades en nuevos proyectos y desafíos emocionantes. ¡Gracias por visitar mi perfil!
+# ![female-technologist-type-4_1f469-1f3fd-200d-1f4bb](https://user-images.githubusercontent.com/99567012/209244922-15c7ae43-4ed9-429d-9c99-b3c0cd4fb5ec.png) About me: 
+👋 Hi! I’m Mariquena Allosa, a Full Stack Developer with a strong background and a passion for technology. My career began in the audiovisual field, where I honed skills in communication and teamwork. Today, I channel my creativity and technical expertise into software development.
+
+I recently completed a Higher Technical Degree in Web Development and Digital Applications at Instituto Superior Politécnico Córdoba (ISPC). I’ve worked on challenging projects using technologies like Java, Spring Boot, Angular, and Docker. My experience includes roles in the Digital Factory team at Silicon Misiones and at Relex, where I’ve developed innovative digital solutions.
+
+You can explore some of my projects on my portfolio https://mariquena-allosa.vercel.app/. I’m always open to new challenges and opportunities for growth. Feel free to reach out to connect and explore how we can collaborate! 🚀👩‍💻
  
-  
-## 🌐 Puedes encontrarme en:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariquenaallosa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariquenaallosa) 
 
 # 💻 Tech Stack:
